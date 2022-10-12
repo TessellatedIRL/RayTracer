@@ -4,7 +4,7 @@
 #include "general.h"
 
 #include "perlin.h"
-#include "rtw_stb_image.h"
+#include "stb_image.h"
 
 #include <iostream>
 
